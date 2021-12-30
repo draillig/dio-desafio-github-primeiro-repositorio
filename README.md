@@ -12,6 +12,12 @@ Repositório criado para o Desafio de Projeto.
 7. Selecione a opção Add a README file para adicionar um arquivo README e colocar informações essenciais do projeto
 8. Clique em Create Repository para criar o repositório
 
+### Clonando o repositório do GitHub (Ambiente distribuído) para o Git (Computador Local)
+
+1. 
+2. Abra o Git Bash na pasta que vai receber o repositório a ser clonado (Clique com o botão direito do mouse e selecione Git Bash Here)
+3. 
+
 ## Links úteis
 
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
