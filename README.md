@@ -27,4 +27,4 @@ Repositório criado para o Desafio de Projeto.
 
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Comandos Básicos do GIT](https://comandosgit.github.io/)
-- [Download Git] (https://git-scm.com/downloads)
+- [Download Git](https://git-scm.com/downloads)
