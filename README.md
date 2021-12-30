@@ -19,7 +19,7 @@ Repositório criado para o Desafio de Projeto.
 - SSH
 - GitHub 
 - CLIHTTPS
-2. Abra o Git Bash na pasta que vai receber o repositório a ser clonado (Clique com o botão direito do mouse e selecione **Git Bash Here**)
+2. Abra o Git Bash na pasta que vai receber o repositório a ser clonado (Clique com o botão direito do mouse e selecione **Git Bash Here**) O Git Bash é um terminal extendido para otimizar o uso do Git.
 3. Digite o comando **git clone**, cole o endereco no meu caso https://github.com/draillig/dio-desafio-github-primeiro-repositorio.git e tecle **Enter**
 4. Digite o comando **ls** para listar as pastas e confirmar se o repositório foi criado
 
@@ -27,3 +27,4 @@ Repositório criado para o Desafio de Projeto.
 
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Comandos Básicos do GIT](https://comandosgit.github.io/)
+- [Download Git] (https://git-scm.com/downloads)
